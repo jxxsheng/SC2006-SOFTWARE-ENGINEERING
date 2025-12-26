@@ -1,10 +1,8 @@
-# 2006-SDAA-32
-
-## Only Foods Web Application
+# OnlyFoods Web Application
 
 ![Cover](./Documents/Diagrams/OnlyFoods.png)
 
-### Team Members
+### Team Members (SDAA-32)
 
 - [Chan Kee Qing](https://github.com/CHAN1203)
 - [Toh Jun Sheng](https://github.com/jxxsheng)
@@ -12,8 +10,6 @@
 - [Lim Jacky](https://github.com/Jeakai)
 - [Yap Hong Sheng](https://github.com/YapHS0514)
 - [Xu Shuwei](https://github.com/xushuwei281)
-
----
 
 ## Documentation
 
@@ -101,4 +97,4 @@ router.post("/login", login); // Handle login submission
 export default router;
 ```
 
-_Submission: This repository is submitted to Nanyang Technological University Singapore as a project for module SC2006 AY2024_
+_Submission: This repository is submitted to Nanyang Technological University Singapore as a project for SC2006 in AY2024_

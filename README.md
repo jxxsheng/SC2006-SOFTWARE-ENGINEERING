@@ -97,4 +97,4 @@ router.post("/login", login); // Handle login submission
 export default router;
 ```
 
-_Submission: This repository is submitted to Nanyang Technological University Singapore as a project for SC2006 in AY2024_
+_Submission: This repository is submitted to Nanyang Technological University Singapore as a project for SC2006 in AY24/25_
